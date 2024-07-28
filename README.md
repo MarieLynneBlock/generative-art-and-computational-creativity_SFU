@@ -1,8 +1,6 @@
 # Generative Art and Computational Creativity
 
-## Overview
-
-Welcome to the repository for the program on **Generative Systems in Creative Tasks**. This program provides an in-depth overview of the history and practice of applying generative systems to creative tasks. Below is a comprehensive outline of what the course entails, along with exercises and homework assignments designed to reinforce your learning.
+This program provides an in-depth overview of the history and practice of applying generative systems to creative tasks. Below is a comprehensive outline of what the course entails, along with exercises and homework assignments.
 
 ## Program Description
 
