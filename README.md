@@ -106,5 +106,3 @@ We hope you find this program enriching and inspiring. Happy learning!
 │
 └── README.md
 ```
-
-This README should provide a clear and structured overview of the program, ensuring students can easily navigate and utilize the resources provided.
